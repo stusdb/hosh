@@ -73,7 +73,7 @@ export default function MoviePage({ params }: { params: { id: string } }) {
               <div className="flex flex-wrap items-center gap-4 mb-6">
                 <div className="flex items-center">
                   <Star className="fill-yellow-500 stroke-yellow-500 h-5 w-5" />
-                  <span className="mr-1 text-yellow-500 font-medium">8.7</span>
+                  <span className="mr-1 text-yellow-500 font-medium">ززززززززززز</span>
                 </div>
                 <div className="flex items-center gap-1">
                   <Calendar className="h-4 w-4 text-gray-400" />
@@ -81,7 +81,7 @@ export default function MoviePage({ params }: { params: { id: string } }) {
                 </div>
                 <div className="flex items-center gap-1">
                   <Clock className="h-4 w-4 text-gray-400" />
-                  <span className="text-gray-300">135 دقيقة</span>
+                  <span className="text-gray-300">135 دق</span>
                 </div>
                 <span className="px-2 py-1 bg-red-600/20 text-red-500 rounded text-sm">دراما</span>
                 <span className="px-2 py-1 bg-red-600/20 text-red-500 rounded text-sm">أكشن</span>
