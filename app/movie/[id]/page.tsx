@@ -126,7 +126,7 @@ export default function MoviePage({ params }: { params: { id: string } }) {
         <Tabs defaultValue="about" className="w-full">
           <TabsList className="grid w-full md:w-[400px] grid-cols-3 mb-8">
             <TabsTrigger value="about" className="text-lg">
-              عن الفيلم
+              عن عنعنعنعنعنعنعن
             </TabsTrigger>
             <TabsTrigger value="cast" className="text-lg">
               طاقم العمل
