@@ -129,7 +129,7 @@ export default function MoviePage({ params }: { params: { id: string } }) {
               عن عنعنعنعنعنعنعن
             </TabsTrigger>
             <TabsTrigger value="cast" className="text-lg">
-              طاقم العمل
+              طاقم ازملللللل
             </TabsTrigger>
             <TabsTrigger value="reviews" className="text-lg">
               التقييمات
