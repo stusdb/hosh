@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.mynavigation.rewx.app-mergeDebugResources-49:/layout/content_main.xml",
+        "source": "com.example.mynavigation.rewx.app-main-52:/layout/content_main.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-mergeDebugResources-49:/layout/app_bar_main.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-main-52:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-mergeDebugResources-49:/layout/fragment_gallery.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-main-52:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-mergeDebugResources-49:/layout/fragment_slideshow.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-main-52:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-mergeDebugResources-49:/layout/content_main.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-main-52:/layout/content_main.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-mergeDebugResources-49:/layout/nav_header_main.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-main-52:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-mergeDebugResources-49:/layout/fragment_home.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-main-52:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.example.mynavigation.rewx.app-main-52:/layout/activity_main.xml"
+    }
+]

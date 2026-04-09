@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/rewx/app/src/main/kotlin/com/example/mynavigation/rewx/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 2376,
+          "line": 57
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/rewx/app/src/main/kotlin/com/example/mynavigation/rewx/MainActivity.kt"
+}
